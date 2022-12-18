@@ -2,7 +2,7 @@
 get any  parameter over time from project control sheet
 
 ## Introduction
-This tool is used to get any parameters distribution (concrete quantity, piping quantity, discipline % complete, project % complete) over any period from control sheets
+This tool is used to get any parameter distribution (concrete quantity, piping quantity, discipline % complete, project % complete) over any period from control sheets
 
 ## Problem Description
 It’d be time-consuming to manually calculate parameters distribution (concrete quantity, piping quantity, discipline % complete, project % complete) over the project duration control sheet
